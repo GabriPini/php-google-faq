@@ -18,21 +18,17 @@ li ol {
     list-style: lower-alpha ;
 }
 
-
 li,
 p{
     padding: 15px;
 }
-
-
 
 p{
     font-size: .95rem;
 }
 
 img{
-    height: 40px;
-    
+    height: 40px; 
 }
 
 main{
@@ -40,16 +36,13 @@ main{
     margin: 0 auto;
 }
 
-span  {
- color: #4086f4;
-    
-}
 
 .active{
     color: #4086f4;
     border-bottom:3px solid #4086f4;
-
 }
+
+
 
 .logo-title{
     padding: 15px;
@@ -62,8 +55,6 @@ span  {
 #main-nav ul{
     padding: 0;
     border-bottom: 1px solid lightgrey;
-
-
 }
 
 #main-nav li{
